@@ -15,9 +15,7 @@
         <p>
         NCP의 콘솔 -> Server -> 서버 생성
         <br/>
-		ubunto-20.04
-		<br/>
-		서비이름 : bitcamp-jenkins-spring
+        ㅎㅎㅎ...
         </p>
     </div>
 	
